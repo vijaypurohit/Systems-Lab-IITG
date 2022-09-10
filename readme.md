@@ -27,6 +27,7 @@ Email us in case any doubts.
    Solutions: [Prateekshya](/Assignment3/Solutions/214101037.pdf), [Vijay - Short](/Assignment3/Solutions/214101058.pdf), [Vijay - Detailed](/Assignment3/Solutions/IITG_SYSLAB_CS558_A3_NetDiGCommand_VijayP_detailed.pdf) 
 
 4. ___Assignment 04 (Socket Programming)___ [Question PDF](https://github.com/prateekshyap/Trading-Application-using-Socket-Programming/blob/main/Question/CS558_Assignment%202%20-%20Socket%20Programming.pdf)
-   * [Client Server Trading System](https://github.com/prateekshyap/Trading-Application-using-Socket-Programming)
+   * [Client Server Trading System](https://github.com/prateekshyap/Trading-Application-using-Socket-Programming): by [Prateekshya Priyadarshini](https://github.com/prateekshyap)
+   * [2Stage DNS Resolver System](https://github.com/vijaypurohit/2Stage-DNS-Resolver-System): by [Vijay Purohit](https://github.com/vijaypurohit)
 -----------------
 THE END
